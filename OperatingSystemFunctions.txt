@@ -1,0 +1,1 @@
+One function of an operating system is file management. The OS is responsible for organizing files on storage media, including reading, writing, moving, and deleting of files. Most operating systems also have software to maintain the health of the storage media to extend its operating lifespan. 
